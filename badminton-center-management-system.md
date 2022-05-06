@@ -1,4 +1,4 @@
-# badminton-center-management-system v1.0 by oretnom23 has SQL injection
+# badminton-center-management-system has SQL injection vulnerability 
 
 vendors: https://www.sourcecodester.com/php/14887/merchandise-online-store-php-free-source-code.html
 
